@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @delightba
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m Delight
+- 👀 I’m interested in software engineering and bulding softwares
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on with more expertrates
 
